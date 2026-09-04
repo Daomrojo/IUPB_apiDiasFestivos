@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37614.0 d17.14
+VisualStudioVersion = 17.14.37614.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentacion\Presentacion.csproj", "{70D92DEC-3C0C-4497-9F69-2086B451FB0F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apidiasfestivos.dominio", "Dominio\apidiasfestivos.dominio.csproj", "{67DE915D-90CA-405B-8B10-08ABBBF5E8A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apidiasfestivos.infraestructura", "Infraestructura\apidiasfestivos.infraestructura.csproj", "{1ECE0DB8-2F9B-4C3E-8B24-C68A5A1C104C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{67DE915D-90CA-405B-8B10-08ABBBF5E8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67DE915D-90CA-405B-8B10-08ABBBF5E8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67DE915D-90CA-405B-8B10-08ABBBF5E8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ECE0DB8-2F9B-4C3E-8B24-C68A5A1C104C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECE0DB8-2F9B-4C3E-8B24-C68A5A1C104C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECE0DB8-2F9B-4C3E-8B24-C68A5A1C104C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECE0DB8-2F9B-4C3E-8B24-C68A5A1C104C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
