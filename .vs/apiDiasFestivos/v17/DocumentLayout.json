@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1ECE0DB8-2F9B-4C3E-8B24-C68A5A1C104C}|Infraestructura\\apidiasfestivos.infraestructura.csproj|c:\\users\\daomr\\source\\repos\\diasfestivos\\infraestructura\\persistencia\\diasfestivoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ECE0DB8-2F9B-4C3E-8B24-C68A5A1C104C}|Infraestructura\\apidiasfestivos.infraestructura.csproj|solutionrelative:infraestructura\\persistencia\\diasfestivoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C1CDCA7-D160-4AB1-8BE1-F2A770BE149C}|Core\\apidiasfestivos.core.csproj|c:\\users\\daomr\\source\\repos\\diasfestivos\\core\\repositorios\\ifestivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1CDCA7-D160-4AB1-8BE1-F2A770BE149C}|Core\\apidiasfestivos.core.csproj|solutionrelative:core\\repositorios\\ifestivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67DE915D-90CA-405B-8B10-08ABBBF5E8A5}|Dominio\\apidiasfestivos.dominio.csproj|c:\\users\\daomr\\source\\repos\\diasfestivos\\dominio\\festivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67DE915D-90CA-405B-8B10-08ABBBF5E8A5}|Dominio\\apidiasfestivos.dominio.csproj|solutionrelative:dominio\\festivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C1CDCA7-D160-4AB1-8BE1-F2A770BE149C}|Core\\apidiasfestivos.core.csproj|c:\\users\\daomr\\source\\repos\\diasfestivos\\core\\repositorios\\ipaisrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1CDCA7-D160-4AB1-8BE1-F2A770BE149C}|Core\\apidiasfestivos.core.csproj|solutionrelative:core\\repositorios\\ipaisrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67DE915D-90CA-405B-8B10-08ABBBF5E8A5}|Dominio\\apidiasfestivos.dominio.csproj|c:\\users\\daomr\\source\\repos\\diasfestivos\\dominio\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67DE915D-90CA-405B-8B10-08ABBBF5E8A5}|Dominio\\apidiasfestivos.dominio.csproj|solutionrelative:dominio\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C1CDCA7-D160-4AB1-8BE1-F2A770BE149C}|Core\\apidiasfestivos.core.csproj|c:\\users\\daomr\\source\\repos\\diasfestivos\\core\\repositorios\\itipofestivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1CDCA7-D160-4AB1-8BE1-F2A770BE149C}|Core\\apidiasfestivos.core.csproj|solutionrelative:core\\repositorios\\itipofestivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67DE915D-90CA-405B-8B10-08ABBBF5E8A5}|Dominio\\apidiasfestivos.dominio.csproj|c:\\users\\daomr\\source\\repos\\diasfestivos\\dominio\\tipofestivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67DE915D-90CA-405B-8B10-08ABBBF5E8A5}|Dominio\\apidiasfestivos.dominio.csproj|solutionrelative:dominio\\tipofestivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C1CDCA7-D160-4AB1-8BE1-F2A770BE149C}|Core\\apidiasfestivos.core.csproj|c:\\users\\daomr\\source\\repos\\diasfestivos\\core\\servicios\\ifestivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1CDCA7-D160-4AB1-8BE1-F2A770BE149C}|Core\\apidiasfestivos.core.csproj|solutionrelative:core\\servicios\\ifestivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1CDCA7-D160-4AB1-8BE1-F2A770BE149C}|Core\\apidiasfestivos.core.csproj|c:\\users\\daomr\\source\\repos\\diasfestivos\\core\\servicios\\ipaisservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1CDCA7-D160-4AB1-8BE1-F2A770BE149C}|Core\\apidiasfestivos.core.csproj|solutionrelative:core\\servicios\\ipaisservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1CDCA7-D160-4AB1-8BE1-F2A770BE149C}|Core\\apidiasfestivos.core.csproj|c:\\users\\daomr\\source\\repos\\diasfestivos\\core\\servicios\\itipofestivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1CDCA7-D160-4AB1-8BE1-F2A770BE149C}|Core\\apidiasfestivos.core.csproj|solutionrelative:core\\servicios\\itipofestivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE0DB8-2F9B-4C3E-8B24-C68A5A1C104C}|Infraestructura\\apidiasfestivos.infraestructura.csproj|c:\\users\\daomr\\source\\repos\\diasfestivos\\infraestructura\\repositorios\\festivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECE0DB8-2F9B-4C3E-8B24-C68A5A1C104C}|Infraestructura\\apidiasfestivos.infraestructura.csproj|solutionrelative:infraestructura\\repositorios\\festivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE0DB8-2F9B-4C3E-8B24-C68A5A1C104C}|Infraestructura\\apidiasfestivos.infraestructura.csproj|c:\\users\\daomr\\source\\repos\\diasfestivos\\infraestructura\\repositorios\\paisrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECE0DB8-2F9B-4C3E-8B24-C68A5A1C104C}|Infraestructura\\apidiasfestivos.infraestructura.csproj|solutionrelative:infraestructura\\repositorios\\paisrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECE0DB8-2F9B-4C3E-8B24-C68A5A1C104C}|Infraestructura\\apidiasfestivos.infraestructura.csproj|c:\\users\\daomr\\source\\repos\\diasfestivos\\infraestructura\\repositorios\\tipofestivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECE0DB8-2F9B-4C3E-8B24-C68A5A1C104C}|Infraestructura\\apidiasfestivos.infraestructura.csproj|solutionrelative:infraestructura\\repositorios\\tipofestivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,53 +55,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DiasFestivosContext.cs",
-              "DocumentMoniker": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Infraestructura\\Persistencia\\DiasFestivosContext.cs",
-              "RelativeDocumentMoniker": "Infraestructura\\Persistencia\\DiasFestivosContext.cs",
-              "ToolTip": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Infraestructura\\Persistencia\\DiasFestivosContext.cs",
-              "RelativeToolTip": "Infraestructura\\Persistencia\\DiasFestivosContext.cs",
+              "Title": "IFestivoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Core\\repositorios\\IFestivoRepositorio.cs",
+              "RelativeDocumentMoniker": "Core\\repositorios\\IFestivoRepositorio.cs",
+              "ToolTip": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Core\\repositorios\\IFestivoRepositorio.cs",
+              "RelativeToolTip": "Core\\repositorios\\IFestivoRepositorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T07:27:34.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TipoFestivo.cs",
-              "DocumentMoniker": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Dominio\\TipoFestivo.cs",
-              "RelativeDocumentMoniker": "Dominio\\TipoFestivo.cs",
-              "ToolTip": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Dominio\\TipoFestivo.cs",
-              "RelativeToolTip": "Dominio\\TipoFestivo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T06:23:31.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pais.cs",
-              "DocumentMoniker": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Dominio\\Pais.cs",
-              "RelativeDocumentMoniker": "Dominio\\Pais.cs",
-              "ToolTip": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Dominio\\Pais.cs",
-              "RelativeToolTip": "Dominio\\Pais.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T06:23:29.07Z",
+              "WhenOpened": "2026-09-24T09:28:30.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Festivo.cs",
-              "DocumentMoniker": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Dominio\\Festivo.cs",
-              "RelativeDocumentMoniker": "Dominio\\Festivo.cs",
-              "ToolTip": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Dominio\\Festivo.cs",
-              "RelativeToolTip": "Dominio\\Festivo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Title": "IPaisRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Core\\repositorios\\IPaisRepositorio.cs",
+              "RelativeDocumentMoniker": "Core\\repositorios\\IPaisRepositorio.cs",
+              "ToolTip": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Core\\repositorios\\IPaisRepositorio.cs",
+              "RelativeToolTip": "Core\\repositorios\\IPaisRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T06:23:18.922Z",
+              "WhenOpened": "2026-09-24T09:28:28.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITipoFestivoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Core\\repositorios\\ITipoFestivoRepositorio.cs",
+              "RelativeDocumentMoniker": "Core\\repositorios\\ITipoFestivoRepositorio.cs",
+              "ToolTip": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Core\\repositorios\\ITipoFestivoRepositorio.cs",
+              "RelativeToolTip": "Core\\repositorios\\ITipoFestivoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T09:28:17.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFestivoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Core\\servicios\\IFestivoServicio.cs",
+              "RelativeDocumentMoniker": "Core\\servicios\\IFestivoServicio.cs",
+              "ToolTip": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Core\\servicios\\IFestivoServicio.cs",
+              "RelativeToolTip": "Core\\servicios\\IFestivoServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T09:28:04.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPaisServicio.cs",
+              "DocumentMoniker": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Core\\servicios\\IPaisServicio.cs",
+              "RelativeDocumentMoniker": "Core\\servicios\\IPaisServicio.cs",
+              "ToolTip": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Core\\servicios\\IPaisServicio.cs",
+              "RelativeToolTip": "Core\\servicios\\IPaisServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T09:28:02.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITipoFestivoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Core\\servicios\\ITipoFestivoServicio.cs",
+              "RelativeDocumentMoniker": "Core\\servicios\\ITipoFestivoServicio.cs",
+              "ToolTip": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Core\\servicios\\ITipoFestivoServicio.cs",
+              "RelativeToolTip": "Core\\servicios\\ITipoFestivoServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T09:28:00.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FestivoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Infraestructura\\Repositorios\\FestivoRepositorio.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Repositorios\\FestivoRepositorio.cs",
+              "ToolTip": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Infraestructura\\Repositorios\\FestivoRepositorio.cs",
+              "RelativeToolTip": "Infraestructura\\Repositorios\\FestivoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T09:27:26.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaisRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Infraestructura\\Repositorios\\PaisRepositorio.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Repositorios\\PaisRepositorio.cs",
+              "ToolTip": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Infraestructura\\Repositorios\\PaisRepositorio.cs",
+              "RelativeToolTip": "Infraestructura\\Repositorios\\PaisRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T09:27:20.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoFestivoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Infraestructura\\Repositorios\\TipoFestivoRepositorio.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Repositorios\\TipoFestivoRepositorio.cs",
+              "ToolTip": "C:\\Users\\daomr\\source\\repos\\DiasFestivos\\Infraestructura\\Repositorios\\TipoFestivoRepositorio.cs",
+              "RelativeToolTip": "Infraestructura\\Repositorios\\TipoFestivoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T09:27:08.649Z",
               "EditorCaption": ""
             }
           ]
